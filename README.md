@@ -66,8 +66,6 @@ Refer to backend/.env.example for all required environment variables.
 
 ---
 # Author
-Sinchana T
-- GitHub: @Sinchana258
+Rucitha V
+- GitHub: @Ruchithav04
 
-# License
-This project is licensed under the MIT License
